@@ -1,8 +1,3 @@
-// строка для ветки main
-
-
-
-
 // Задание 3
 const userInput = prompt('Введите что-нибудь')
 let reversText = ''
